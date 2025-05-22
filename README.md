@@ -82,4 +82,8 @@ The dataset mimics operations of *Adventure Works Cycles*, a fictional multinati
 
         This project was created by Bidarth Kr. Singh and is distributed under the "Apache License" license.
 
+# Snapshot of Dashboard
+
+![Image](https://github.com/user-attachments/assets/4c38177e-8a17-42aa-be3b-01624357a2a3)
+
 ---
